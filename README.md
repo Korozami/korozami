@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Kevin Sy!
 
+I'm someone who was inspired by my friends to join the road of becoming a master developer! 
+
+I've always been interested in coding, but the fear of learning something completely new was the wall that stopped me from taking the first step. However, here I am now, looking for an error at line 256 when my code only goes up to line 75. 🫠
+
+Currently comfortable with Javascript, Python, React, Redux, Flask, SQLAlchemy, Sequelize, Express, Node.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,nodejs,react,redux,py,postgres)](https://skillicons.dev)
+
+Personal Portfolio: https://korozami.github.io/
+
+Email: kevsy@ucdavis.edu
 <!--
 **Korozami/korozami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
