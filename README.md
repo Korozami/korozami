@@ -10,9 +10,7 @@ Currently comfortable with Javascript, Python, React, Redux, Flask, SQLAlchemy, 
 
 Personal Portfolio: https://korozami.github.io/
 
-Email: kevsy.97@gmail.com (currently disabled for some reason and going through an appeal process)
-
-Backup Email: kevsy@ucdavis.edu
+Email: kevsy.97@gmail.com
 <!--
 **Korozami/korozami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
