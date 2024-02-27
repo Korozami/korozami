@@ -8,9 +8,9 @@ Currently comfortable with Javascript, Python, React, Redux, Flask, SQLAlchemy, 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,nodejs,react,redux,py,postgres)](https://skillicons.dev)
 
-Personal Portfolio: https://korozami.github.io/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korozami)](https://github.com/anuraghazra/github-readme-stats)
 
-Email: kevsy.97@gmail.com
+Reach me at : kevsy.97@gmail.com
 <!--
 **Korozami/korozami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
