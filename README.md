@@ -4,9 +4,8 @@ I'm someone who was inspired by my friends to join the road of becoming a master
 
 I've always been interested in coding, but the fear of learning something completely new was the wall that stopped me from taking the first step. However, here I am now, looking for an error at line 256 when my code only goes up to line 75. 🫠
 
-- 🌱 I’m currently expanding my knowledge and skills in Javascript and Python
+- 🌱 I’m currently expanding my knowledge and skills
 - 📫 How to reach me: kevsy.97@gmail.com
-- 💬 Ask me about: Boba, Anime and Kdrama 
 
 <!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=korozami&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
